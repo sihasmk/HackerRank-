@@ -6,6 +6,8 @@
     "unordered_map": "cpp",
     "unordered_set": "cpp",
     "string_view": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "functional": "cpp",
+    "complex": "cpp"
   }
 }
